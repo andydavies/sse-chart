@@ -6,7 +6,7 @@ Simple nodejs experiment that drives a rickshaw.js chart using Server Sent Event
 To use 
 
 1. Clone the repository
-2. Run '''node sse-chart.js'''
+2. Run ```node sse-chart.js```
 3. Load 127.0.0.1:8888 in a browser
 
 
